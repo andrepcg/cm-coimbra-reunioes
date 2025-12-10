@@ -1,4 +1,4 @@
-baseURL = 'https://andrepcg.github.io/cm-coimbra-reunioes/'
+baseURL = 'https://reunioes-cm-coimbra.andrepcg.ovh/'
 languageCode = 'pt-pt'
 title = 'Reuniões da Câmara Municipal de Coimbra'
 theme = 'archie'
