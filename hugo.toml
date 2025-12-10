@@ -9,7 +9,7 @@ theme = 'archie'
 [params]
 	mode="light" # color-mode → light,dark,toggle or auto
 	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
-	subtitle = "Resumos das reuniões em directo"
+	subtitle = "Resumos das reuniões da Câmara Municipal de Coimbra emitidas em directo no Facebook e [Youtube](https://www.youtube.com/@MunicipiodeCoimbra/streams)"
 	mathjax = false # enable MathJax support
 	katex = false # enable KaTeX support
 
